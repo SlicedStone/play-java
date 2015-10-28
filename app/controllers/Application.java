@@ -8,7 +8,7 @@ import views.html.*;
 public class Application extends Controller {
 
     public Result index() {
-        return ok("hello world from play framework by freeBSD, enjoy it");
+        return ok("dare you try it again");
     }
 
 }
